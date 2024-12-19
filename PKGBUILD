@@ -13,6 +13,7 @@ _pkgdesc=(
   "for handling ARIB STD-B24 based"
   "TV broadcast captions"
 )
+pkgdesc="${_pkgdesc[*]}"
 arch=(
   'x86_64'
   'i686'
